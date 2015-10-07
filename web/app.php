@@ -28,4 +28,4 @@ $response = $kernel->handle($request);
 $response->send();
 $kernel->terminate($request, $response);
 $ejemplo = 'este es un cimit de ejemplo';
-$ejemplo2 = 'este es un cimit de ejemplo2';
+$ejemplo2 = 'Hola yuri';
